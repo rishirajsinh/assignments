@@ -11,7 +11,7 @@ int main() {
             printf(" ");
         }
 
-        // print numbers from 1..i
+
         for (int j = 1; j <= i; j++) {
             printf("%d", j);
             if (j < i) {
